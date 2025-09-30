@@ -9,7 +9,8 @@
   
   <div style="background-color: white; padding: 15px; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     <p style="text-align: center; margin: 5px 0;">
-      <strong>مدیرمسئول و سردبیر:</strong> امیرحسین خدیوی خانقاه
+      <strong>مدیرمسئول:</strong> محمد رضائی
+      <strong>سردبیر: امیرحسین خدیوی خانقاه</strong>
     </p>
   </div>
   
