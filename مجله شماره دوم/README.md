@@ -31,3 +31,12 @@
   <li>🎤 مصاحبه با اعضای سایبر سوتک</li>
   <li>🎭 مسابقه و سرگرمی، همراه با جوایز ویژه</li>
 </ul>
+
+ارتباط با نشریه، انتقادات، نظرات 📩📱:
+</p>
+<p>Telegram (https://t.me/cyber_sutech) </p>
+<p>Instagram (https://www.instagram.com/cyber.sutech?igsh=MTR6bWw2cmowYXYxZA==) </p>
+<p>Linkedin (https://www.linkedin.com/company/cyber-sutech-journal/) </p>
+<p>Aparat (https://www.aparat.com/Cyber.Sutech) </p>
+<p>Gmail (sutechcyber@gmail.com) </p>
+<p>
