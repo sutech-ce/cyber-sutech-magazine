@@ -11,6 +11,7 @@
     <p style="text-align: center; margin: 5px 0;">
       <strong>مدیر مسئول: محمد رضائی</strong>
     </p>
+    <p><strong>دبیر انجمن: محمد اشتیاق</strong></p>
     <p>  
     <strong>سردبیر: امیرحسین خدیوی خانقاه</strong>
     </p>
